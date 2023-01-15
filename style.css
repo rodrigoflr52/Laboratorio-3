@@ -1,1 +1,16 @@
-footer { color: red;}
+body{
+    text-align: center;
+    margin-top: 30;
+}
+
+section{
+    text-align: right;
+    background-color: grey;height: 40px;
+    color: white;
+    margin-top: 30;
+}
+
+p{ 
+    text-align: center;
+    margin-top: 50;
+}
