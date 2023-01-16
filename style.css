@@ -1,20 +1,23 @@
-header{
-    display: flex;
-    justify-content:center;
-
-}
-
 
 body{
     text-align: center;
     margin-top: 30;
 }
 
+header{
+    display: flex;
+    justify-content:center;
+}
+
 section{
+    display: flex;
+    flex-direction: column;
     text-align: right;
-    background-color: grey;height: 40px;
+    justify-content: space-around;
+    background-color: grey;
     color: white;
-    margin-top: 30;
+    border: solid;
+    margin-top: 0.3;
 }
 
 p{ 
