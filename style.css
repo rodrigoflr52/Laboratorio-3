@@ -1,3 +1,10 @@
+header{
+    display: flex;
+    justify-content:center;
+
+}
+
+
 body{
     text-align: center;
     margin-top: 30;
@@ -15,3 +22,23 @@ p{
     margin-top: 50;
 }
 
+main{
+    border:solid;
+    border-right: 5%;
+    border-left: 1 px;
+}
+
+picture{ 
+ margin-left: 80;
+ margin-right: 80;
+}
+
+.main2{
+    border:solid;
+    border-right: 5%;
+    border-left: 1 px;
+}
+
+base{
+    margin-left: -500;
+}
