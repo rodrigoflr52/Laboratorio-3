@@ -26,7 +26,7 @@ p{
 }
 
 main{
-    border:solid;
+    border: solid whitesmoke;
     border-right: 5%;
     border-left: 1 px;
 }
